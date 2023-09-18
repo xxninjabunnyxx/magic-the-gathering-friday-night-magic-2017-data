@@ -1,0 +1,17 @@
+---
+object: set
+id: 690dae5c-2de4-4071-b77c-19883791f987
+code: f17
+name: Friday Night Magic 2017
+uri: https://api.scryfall.com/sets/690dae5c-2de4-4071-b77c-19883791f987
+scryfall_uri: https://scryfall.com/sets/f17
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Af17&unique=prints
+released_at: '2017-01-01'
+set_type: promo
+card_count: 12
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: fnm
+block: Friday Night Magic
+icon_svg_uri: https://svgs.scryfall.io/sets/star.svg?1694404800

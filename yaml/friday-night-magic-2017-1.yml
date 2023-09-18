@@ -1,0 +1,117 @@
+---
+object: card
+id: 3b4675c4-c8e7-4f11-9a51-7b9630753339
+oracle_id: fb1d521f-cb64-4b87-b3f4-a74e91a60349
+multiverse_ids: []
+tcgplayer_id: 126944
+cardmarket_id: 293289
+name: Noose Constrictor
+lang: en
+released_at: '2017-01-01'
+uri: https://api.scryfall.com/cards/3b4675c4-c8e7-4f11-9a51-7b9630753339
+scryfall_uri: https://scryfall.com/card/f17/1/noose-constrictor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/b/3b4675c4-c8e7-4f11-9a51-7b9630753339.jpg?1562636788
+  normal: https://cards.scryfall.io/normal/front/3/b/3b4675c4-c8e7-4f11-9a51-7b9630753339.jpg?1562636788
+  large: https://cards.scryfall.io/large/front/3/b/3b4675c4-c8e7-4f11-9a51-7b9630753339.jpg?1562636788
+  png: https://cards.scryfall.io/png/front/3/b/3b4675c4-c8e7-4f11-9a51-7b9630753339.png?1562636788
+  art_crop: https://cards.scryfall.io/art_crop/front/3/b/3b4675c4-c8e7-4f11-9a51-7b9630753339.jpg?1562636788
+  border_crop: https://cards.scryfall.io/border_crop/front/3/b/3b4675c4-c8e7-4f11-9a51-7b9630753339.jpg?1562636788
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Creature — Snake
+oracle_text: |-
+  Reach
+  Discard a card: Noose Constrictor gets +1/+1 until end of turn.
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Reach
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 690dae5c-2de4-4071-b77c-19883791f987
+set: f17
+set_name: Friday Night Magic 2017
+set_type: promo
+set_uri: https://api.scryfall.com/sets/690dae5c-2de4-4071-b77c-19883791f987
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Af17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/f17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3b4675c4-c8e7-4f11-9a51-7b9630753339/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afb1d521f-cb64-4b87-b3f4-a74e91a60349&unique=prints
+collector_number: '1'
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: |-
+  "More rope may not be necessary."
+  —Kep, Lunarch inquisitor
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: 9e4e6872-b045-4d5e-b6c3-86af7bd21e80
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+- fnm
+edhrec_rank: 8357
+penny_rank: 1455
+prices:
+  usd: 
+  usd_foil: '0.20'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.28'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Noose+Constrictor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Noose+Constrictor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Noose+Constrictor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/126944?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Noose+Constrictor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Noose+Constrictor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
